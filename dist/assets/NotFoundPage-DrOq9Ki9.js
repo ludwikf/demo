@@ -1,0 +1,1 @@
+import{t as e,z as t}from"./useTranslation-BkivRLKg.js";import{t as n}from"./AppStatusPage-dcqJfinv.js";var r=t();function i(){let{t}=e();return(0,r.jsx)(n,{code:404,title:t(`notFound.title`),hint:t(`notFound.hint`)})}export{i as NotFoundPage};
