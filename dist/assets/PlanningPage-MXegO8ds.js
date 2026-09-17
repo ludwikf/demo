@@ -1,1 +1,0 @@
-import{a as e,i as t,t as n,z as r}from"./useTranslation-C127je0S.js";var i=r();function a(){let{t:r}=n();return(0,i.jsx)(t,{sx:{pt:4},children:(0,i.jsx)(e,{component:`h1`,variant:`h4`,children:r(`planning.title`)})})}export{a as PlanningPage};
