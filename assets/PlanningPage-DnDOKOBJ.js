@@ -1,0 +1,1 @@
+import{V as e,a as t,i as n,t as r}from"./useTranslation-C9kllCyL.js";var i=e();function a(){let{t:e}=r();return(0,i.jsx)(n,{sx:{pt:4},children:(0,i.jsx)(t,{component:`h1`,variant:`h4`,children:e(`planning.title`)})})}export{a as PlanningPage};
